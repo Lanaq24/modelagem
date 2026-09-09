@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1788964855 source:c:\users\1638168\documents\projetos\meunome\main.cpp
+	<GL/freeglut.h>
+
+1787148112 c:\users\1638168\documents\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1787148112 c:\users\1638168\documents\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1787148112 c:\users\1638168\documents\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
