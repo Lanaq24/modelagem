@@ -1,6 +1,8 @@
 # depslib dependency file v1.0
-1788129348 source:c:\users\w10\modelagem3d\meunome\main.cpp
+1790558549 source:c:\users\w10\modelagem3d\meunome\main.cpp
 	<GL/freeglut.h>
+	<time.h>
+	<cstdio>
 
 1426360528 c:\users\w10\modelagem3d\freeglut\include\gl\glut.h
 	"freeglut_std.h"
